@@ -1,0 +1,46 @@
+
+
+/* NAVEGADOR */
+
+.logo_cuppon{
+    height: 25pt;
+}
+
+.card{
+    height: 340pt !important;
+}
+
+.logo_footer{
+    width: 55pt !important;
+}
+
+hr{
+    width: 90%;
+}
+
+.caja-precio {
+    height: 70px;
+}
+
+
+/* Preferí seguir el tamaño de las fuentes determinado por la maqueta (en pt) */
+
+h5{
+    font-family: Roboto, sans-serif;
+    font-size: 20pt;
+}
+
+.p1{
+    font-family: Roboto, sans-serif;
+    font-size: 14pt;
+}
+
+.p2{
+    font-family: Roboto, sans-serif;
+    font-size: 13pt;
+}
+
+.p3{
+    font-family: Roboto, sans-serif;
+    font-size: 20pt;
+}
